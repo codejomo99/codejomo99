@@ -3,6 +3,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
 # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codejomo99&label=Profile%20views&color=0e75b6&style=flat" alt="codejomo99" /> </p>
 
 My name is Jong Min, and I am a senior developer who has recently started a journey to become a backend developer. My goal is to delve into the realm of backend development and continue expanding my knowledge in this field.
 
@@ -15,7 +16,7 @@ My name is Jong Min, and I am a senior developer who has recently started a jour
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codejomo99&label=Profile%20views&color=0e75b6&style=flat" alt="codejomo99" /> </p>
+
 
 ## Connect with me
 <p align="left">
