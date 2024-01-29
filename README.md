@@ -11,16 +11,8 @@ My name is Jong Min, and I am a senior developer who has recently started a jour
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+[Study Note](https://pointy-rosehip-1fe.notion.site/Study-Note-f7d6337de958446db2c21d48c63a8d5a?pvs=4)
 
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Monitoring Indoor Air Quality with Prometheus, Grafana and a CO2 Sensor](https://martinheinz.dev/blog/107)
-- [Everything You Can Do with Python&#39;s bisect Module](https://martinheinz.dev/blog/106)
-- [You Don&#39;t Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
-- [A Collection of Docker Images To Solve All Your Debugging Needs](https://martinheinz.dev/blog/104)
-<!-- BLOG-POST-LIST:END -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codejomo99&label=Profile%20views&color=0e75b6&style=flat" alt="codejomo99" /> </p>
