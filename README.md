@@ -32,8 +32,8 @@ My name is Jong Min, and I am a senior developer who has recently started a jour
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejomo99&show_icons=true&locale=en&layout=compact" alt="codejomo99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejomo99&show_icons=true&locale=en&layout=compact" alt="codejomo99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codejomo99&show_icons=true&locale=en" alt="codejomo99" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codejomo99&" alt="codejomo99" /></p
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codejomo99&" alt="codejomo99" /></p
 
