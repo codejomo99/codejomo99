@@ -12,7 +12,7 @@ My name is Jong Min, and I am a senior developer who has recently started a jour
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" /></div>
 
 ### TechStack
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="52" height="52" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="5y note2" height="52" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="52" height="52" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="52" height="52" /></div>
 
 
 
@@ -20,7 +20,7 @@ My name is Jong Min, and I am a senior developer who has recently started a jour
 ## &#x270d; Blog & Writing
 
 [Study Note](https://pointy-rosehip-1fe.notion.site/Study-Note-f7d6337de958446db2c21d48c63a8d5a?pvs=4)
-
+[Velog](https://velog.io/@codejomo99/posts)
 
 
 
