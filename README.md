@@ -19,8 +19,8 @@ My name is Jong Min, and I am a senior developer who has recently started a jour
 
 ## &#x270d; Blog & Writing
 
-[Study Note](https://pointy-rosehip-1fe.notion.site/Study-Note-f7d6337de958446db2c21d48c63a8d5a?pvs=4)
-[Velog](https://velog.io/@codejomo99/posts)
+- [Study Note](https://pointy-rosehip-1fe.notion.site/Study-Note-f7d6337de958446db2c21d48c63a8d5a?pvs=4)<br>
+- [Velog](https://velog.io/@codejomo99/posts)
 
 
 
